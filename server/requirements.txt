@@ -1,0 +1,7 @@
+Flask
+flask-cors
+opencv-python
+uuid
+firebase-admin
+inference-sdk
+gunicorn
