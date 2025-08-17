@@ -1,7 +1,6 @@
-Flask
+flask
 flask-cors
-opencv-python
-uuid
 firebase-admin
 inference-sdk
-gunicorn
+opencv-python
+pytesseract
